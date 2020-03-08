@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nada/b/ROS/catkin_ws/install/setup.sh
